@@ -1,9 +1,9 @@
 {
   "metadata": {
     "PurchaseListID": "PL_20260313_001",
-    "CreatedOn": "2026-03-13T06:25:54.5902414Z",
-    "CreatedBy": "k64121947",
-    "TotalEstimation": 9000.0,
+    "CreatedOn": "2026-03-13T09:23:06.246352Z",
+    "EditedBy": "k64121947",
+    "TotalEstimation": 9531.0,
     "Status": "Draft",
     "PlannedDate": "2026-03-21T00:00:00",
     "Remarks": "Reserving Budget for Lab Equipments. (Driller \u0026 Soldering station)",
@@ -19,8 +19,8 @@
       "SupplierType": "Online",
       "SupplierName": "Amazon.IN",
       "Quantity": 1,
-      "UnitCost": 5500.0,
-      "Estimation": 5500.0
+      "UnitCost": 5639.0,
+      "Estimation": 5639.0
     },
     {
       "SlNo": 2,
@@ -31,8 +31,8 @@
       "SupplierType": "Online",
       "SupplierName": "Amazon.IN",
       "Quantity": 1,
-      "UnitCost": 3500.0,
-      "Estimation": 3500.0
+      "UnitCost": 3892.0,
+      "Estimation": 3892.0
     }
   ]
 }
