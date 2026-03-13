@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "PurchaseListID": "PL_20260313_001",
+    "CreatedOn": "2026-03-13T06:25:54.5902414Z",
+    "CreatedBy": "k64121947",
+    "TotalEstimation": 9000.0,
+    "Status": "Draft",
+    "PlannedDate": "2026-03-21T00:00:00",
+    "Remarks": "Reserving Budget for Lab Equipments. (Driller \u0026 Soldering station)",
+    "Deducted": true
+  },
+  "materials": [
+    {
+      "SlNo": 1,
+      "MID": "MID20343",
+      "Title": "INCGO 66NM CORDLESS DRILL (20VDC 2A)",
+      "PartNumber": "CIDLI20668",
+      "Manufacturer": "INCGO",
+      "SupplierType": "Online",
+      "SupplierName": "Amazon.IN",
+      "Quantity": 1,
+      "UnitCost": 5500.0,
+      "Estimation": 5500.0
+    },
+    {
+      "SlNo": 2,
+      "MID": "MID20344",
+      "Title": "Serplex 2 in 1 SOLDERING STATION",
+      "PartNumber": "Serplex 2 in 1 8585",
+      "Manufacturer": "Serplex\u00AE",
+      "SupplierType": "Online",
+      "SupplierName": "Amazon.IN",
+      "Quantity": 1,
+      "UnitCost": 3500.0,
+      "Estimation": 3500.0
+    }
+  ]
+}
