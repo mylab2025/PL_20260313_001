@@ -2,12 +2,15 @@
   "metadata": {
     "PurchaseListID": "PL_20260313_001",
     "CreatedOn": "2026-03-13T09:23:06.246352Z",
+    "CreatedBy": "k64121947",
     "EditedBy": "k64121947",
+    "EditedOn": "2026-03-16T03:19:28.3674231Z",
     "TotalEstimation": 9531.0,
-    "Status": "Draft",
+    "Status": "Ready",
     "PlannedDate": "2026-03-21T00:00:00",
-    "Remarks": "Reserving Budget for Lab Equipments. (Driller \u0026 Soldering station)",
-    "Deducted": true
+    "Remarks": "Reserving Budget for Lab Equipments. (Driller \u0026 Soldering station)\r\n\r\nOredered on 13th MAR 2026 delivery will be on 16th MAR 2026.",
+    "Deducted": true,
+    "Approval": "Approved"
   },
   "materials": [
     {
